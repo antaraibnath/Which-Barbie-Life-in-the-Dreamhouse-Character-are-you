@@ -1,0 +1,68 @@
+body {
+    background-image: url("https://static.wikia.nocookie.net/barbielintd/images/0/06/2012-07_Dreamhouse.png/revision/latest?cb=20130804054716");
+    background-size: cover;
+    font-family: barbie-font;
+    border: 0;
+}
+.attitude-button {
+    position: center;
+}
+.q2 {
+    
+}
+
+.barb {
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    padding-left: 600px;
+    padding-top: 200px;
+
+}
+
+.elle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    height: 500px;
+    position: absolute;
+    padding-left: 200px;
+    padding-top: 200px;
+}
+
+.nik {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    height: 500px;
+    position: absolute;
+    padding-left: 400px;
+    padding-top: 200px;
+}
+
+.ken {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    height: 500px;
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 200px;
+}
+    
+h1 {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
